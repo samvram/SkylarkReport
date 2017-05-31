@@ -1,0 +1,39 @@
+\contentsline {chapter}{\numberline {1}The Problem Statement}{2}
+\contentsline {chapter}{\numberline {2}Present Network}{3}
+\contentsline {section}{\numberline {2.1}The connections}{3}
+\contentsline {section}{\numberline {2.2}Explanation}{4}
+\contentsline {chapter}{\numberline {3}PixHawk 1 to PixHawk 2.1}{5}
+\contentsline {section}{\numberline {3.1}Comparison}{5}
+\contentsline {section}{\numberline {3.2}The HW differences}{6}
+\contentsline {chapter}{\numberline {4}The Intel Edison}{7}
+\contentsline {section}{\numberline {4.1}Possibilities}{7}
+\contentsline {section}{\numberline {4.2}Specefications}{7}
+\contentsline {section}{\numberline {4.3}Shortcomings}{8}
+\contentsline {chapter}{\numberline {5}Camera}{10}
+\contentsline {section}{\numberline {5.1}Specifications}{10}
+\contentsline {section}{\numberline {5.2}The Problem and solution}{16}
+\contentsline {chapter}{\numberline {6}Emlid Reach}{18}
+\contentsline {section}{\numberline {6.1}RTKLIB}{18}
+\contentsline {section}{\numberline {6.2}9DOF}{18}
+\contentsline {section}{\numberline {6.3}Edison Inside}{18}
+\contentsline {section}{\numberline {6.4}Real Time Kinematics}{19}
+\contentsline {section}{\numberline {6.5}Problem Statement and Solution}{19}
+\contentsline {chapter}{\numberline {7}Possible Solution Networks}{24}
+\contentsline {section}{\numberline {7.1}Alternate solution 1}{24}
+\contentsline {subsection}{\numberline {7.1.1}Advantages}{24}
+\contentsline {subsection}{\numberline {7.1.2}Disadvantages}{25}
+\contentsline {section}{\numberline {7.2}Alternate solution 2}{25}
+\contentsline {subsection}{\numberline {7.2.1}Advantages}{25}
+\contentsline {subsection}{\numberline {7.2.2}Disadvantages}{25}
+\contentsline {section}{\numberline {7.3}Alternate solution 3}{26}
+\contentsline {subsection}{\numberline {7.3.1}Advantages}{26}
+\contentsline {subsection}{\numberline {7.3.2}Disadvantages}{26}
+\contentsline {section}{\numberline {7.4}Alternate solution 4}{27}
+\contentsline {subsection}{\numberline {7.4.1}Advantages}{27}
+\contentsline {subsection}{\numberline {7.4.2}Disadvantages}{27}
+\contentsline {section}{\numberline {7.5}Alternate solution b}{28}
+\contentsline {subsection}{\numberline {7.5.1}Advantages}{28}
+\contentsline {subsection}{\numberline {7.5.2}Disadvantages}{28}
+\contentsline {section}{\numberline {7.6}The chosen solution}{29}
+\contentsline {chapter}{\numberline {8}Possibilities you might explore}{30}
+\contentsline {chapter}{\numberline {9}Conclusion}{34}
